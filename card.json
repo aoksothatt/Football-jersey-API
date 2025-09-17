@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "img": "https://thumblr.uniid.it/product/369614/deea21658d93.jpg?width=3840&format=webp&q=75",
+    "title": "Cheasea Jersey ",
+    "description": "This is a description for card 1.",
+    "pirce": "$10.00"
+  },
+  {
+    "id": 2,
+    "img": "https://thumblr.uniid.it/product/369614/deea21658d93.jpg?width=3840&format=webp&q=75",
+    "title": "Asernal Jersey ",
+    "description": "This is a description for card 2.",
+    "pirce": "$10.00"
+  },
+  {
+    "id": 3,
+    "img": "https://thumblr.uniid.it/product/369614/deea21658d93.jpg?width=3840&format=webp&q=75",
+    "title": "Real Madrid Jersey ",
+    "description": "This is a description for card 3.",
+    "pirce": "$10.00"
+  },
+  {
+    "id": 4,
+    "img": "https://thumblr.uniid.it/product/369614/deea21658d93.jpg?width=3840&format=webp&q=75",
+    "title": "Manchester City Jersey ",
+    "description": "This is a description for card 4.",
+    "pirce": "$10.00"
+  },
+  {
+    "id": 5,
+    "img": "https://thumblr.uniid.it/product/369614/deea21658d93.jpg?width=3840&format=webp&q=75",
+    "title": "Manchester United Jersey ",
+    "description": "This is a description for card 5.",
+    "pirce": "$10.00"
+  },
+  {
+    "id": 6,
+    "img": "https://i8.amplience.net/t/jpl/jd_product_list?plu=jd_758547_plc&qlt=85&qlt=92&w=320&h=408&v=1&fmt=auto",
+    "title": "Liverpool Jersey ",
+    "description": "This is a description for card 6.",
+    "pirce": "$10.00"
+  },
+  {
+    "id": 7,
+    "img": "https://i8.amplience.net/t/jpl/jd_product_list?plu=jd_758547_plc&qlt=85&qlt=92&w=320&h=408&v=1&fmt=auto",
+    "title": "Fulham Jersey ",
+    "description": "This is a description for card 7.",
+    "pirce": "$10.00"
+  },
+  {
+    "id": 8,
+    "img": "https://i8.amplience.net/t/jpl/jd_product_list?plu=jd_758547_plc&qlt=85&qlt=92&w=320&h=408&v=1&fmt=auto",
+    "title": "Bracelona Retrol Jersey ",
+    "description": "This is a description for card 8.",
+    "pirce": "$10.00"
+  },
+  {
+    "id": 9,
+    "img": "https://i8.amplience.net/t/jpl/jd_product_list?plu=jd_766216_plc&qlt=85&qlt=92&w=320&h=408&v=1&fmt=auto",
+    "title": "Everton Away Jersey ",
+    "description": "This is a description for card 9.",
+    "pirce": "$10.00"
+  },
+  {
+    "id": 10,
+    "img": "https://shop.newcastleunited.com/cdn/shop/files/JP4152_PLAY_AI_3.webp?v=1748364655&width=2048",
+    "title": "Newcastle United Jersey ",
+    "description": "This is a description for card 10.",
+    "pirce": "$10.00"
+  },
+  {
+    "id": 11,
+    "img": "https://i8.amplience.net/t/jpl/jd_product_list?plu=jd_752605_plc&qlt=85&qlt=92&w=320&h=408&v=1&fmt=auto",
+    "title": "Tottenham Hotspur Jersey ",
+    "description": "This is a description for card 11.",
+    "pirce": "$10.00"
+  },
+  {
+    "id": 12,
+    "img": "https://i8.amplience.net/t/jpl/jd_product_list?plu=jd_752605_plc&qlt=85&qlt=92&w=320&h=408&v=1&fmt=auto",
+    "title": "West Ham United Jersey ",
+    "description": "This is a description for card 12.",
+    "pirce": "$10.00"
+  }
+]
